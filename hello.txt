@@ -5,3 +5,4 @@ Second line in my_second_branch
 Hello from main repository
 111
 Rename commit
+Rename commit 2
