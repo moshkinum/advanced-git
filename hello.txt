@@ -6,3 +6,4 @@ Hello from main repository
 111
 Rename commit
 Rename commit 2
+Rename commit 3
